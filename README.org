@@ -1,0 +1,5 @@
+* About
+
+Proofs on different evaluation strategies on pure lambda calculus, the theorem includes: diamond property, adequacy of reduction, and etc...
+- Call By Value
+- Call By Push Value
