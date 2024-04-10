@@ -4,4 +4,4 @@ Proofs on different evaluation strategies on pure lambda calculus, the theorem i
 - Call By Value
 - Call By Push Value
 
-Also check out the [[https://erupmi.github.io/p/lambda-calculus/cbpv.html][writeup]].
+Also check out the [[https://erupmi.github.io/posts/cbpv-properties.html][writeup]].
